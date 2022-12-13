@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://lh3.googleusercontent.com/-J4ivQJ4sYpY/Yf-_VC6GTvI/AAAAAAAAAXQ/jd0R2yos4CEfA8PT86tCTO_bhQEc-8UeQCNcBGAsYHQ/h1280/ver-depor-tv-en-vivo.png" group-title="DEPORTE", DEPORTE TV 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo .png?itok=gzTn1Jjd" group-title="NOTICIAS", IP 24.5
-
-
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/ cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRÓNICA HD 24.4 
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
