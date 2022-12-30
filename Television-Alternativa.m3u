@@ -19,13 +19,13 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.
 #EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1506356427228655625/Vym1HGRy_400x400.jpg" group-title="NOTICIAS ", C5N 25.2
 https://www.youtube.com/watch?v=dbteiGt_t_4
 
-#EXTINF:-1 grupo-titulo="NOTICIAS", LN+ 25.3    
+#EXTINF:-1 group-title="NOTICIAS", LN+ 25.3    
 https://www.youtube.com/watch?v=IOSVORAZnRY
 
-#EXTINF:-1 grupo-title="NOTICIAS", DIPUTADOS TV
+#EXTINF:-1 group-title="NOTICIAS", DIPUTADOS TV
 https://www.youtube.com/watch?v=1-5ycDIKmTA
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-05SnsXnUgm8/Yvv71BXzaEI/AAAAAAAAAvE/hdWRf1-9eWEfHsBfrvYdCszGNNUIU-PnQCNcBGAsYHQ/h120/ver-america-tv-en-vivo.jpg" group-title="NACIONALES", AMÉRICA HD 36.1
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/america-tv.png" group-title="NACIONALES", AMÉRICA HD 36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/america-tv.png" group-title="NACIONALES", AMERICA HD  36.1 OPCION 2
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/america-tv.png" group-title="NACIONALES", AMERICA HD  36.1 OPCION 3
 https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" group-title= "NACIONALES", 23.1 TV PÚBLICA
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" group-title="NACIONALES", TV PÚBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/television-publica.png" group-title="NACIONALES", TV PUBLICA  OPCION 2
@@ -74,7 +74,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 #EXTINF:-1 tvg-id="TecTV.ar" tvg-logo="https://pbs.twimg.com/profile_images/1539356377520427009/j5m8Uqwu_400x400.jpg" group-title="NACIONALES", TEC 22.5
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dW4XYhS/barney.png" group-title= "INFANTIL", PAKA PAKA 22.2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dW4XYhS/barney.png" group-title="INFANTIL", PAKA PAKA 22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="NACIONALES", CINEAR 22.4
@@ -98,7 +98,7 @@ https://www.youtube.com/watch?v=XDJPzMznAjU
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NOTICIAS", TELESUR 25.4
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8  
  
-#EXTINF:-1 tvg-id="RTEspanol.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU" título-grupo ="NOTICIAS", RT 25.5
+#EXTINF:-1 tvg-id="RTEspanol.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU" group-title="NOTICIAS", RT 25.5
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/mirador.png" group-title="NACIONALES", MIRADOR 22.3
@@ -119,7 +119,7 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="NOTICIAS", ARGENTINISIMA SATELITAL
 https://cronos.aldeaglobal.net.ar/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/ profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CÓRDOBA", TELEFE CÓRDOBA
+#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/ profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CÓRDOBA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0159
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065076342222450690/Yc9-8FPg_400x400.jpg" group-title="NORTE", TELEFE TUCUMAN
@@ -146,7 +146,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0080
 #EXTINF:-1 group-title="CORDOBA", EL DOCE CÓRDOBA
 https://www.youtube.com/watch?v=IUQyg-SFvXQ
 
-#EXTINF:-1 tvg-id="TelediarioTV.ar" tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png" grupo- title="CÓRDOBA", TELEDIARIO RÍO CUARTO
+#EXTINF:-1 tvg-id="TelediarioTV.ar" tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png" group-title="CORDOBA", TELEDIARIO RÍO CUARTO
 https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tycsports.com/files/2020/11/12/138170/uno-contra-uno_862x485.jpg" group-title="CORDOBA", UNO CONTRA UNO TV
@@ -346,22 +346,22 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b
 #EXTINF:-1 tvg-logo="https://onradiochile.cl/wp-content/uploads/2019/09/kpop-170x170.png" group-title="MUSICA", En Radio Kpop
 https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MÚSICA", TV GLOBAL
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", TV GLOBAL
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", RPC TV
 https://stmv.video.gmpro.top/rpctv/rpctv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/262119975_381948620283345_9016602729835504783_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeEscSVrj0RlJosARjKwLEE5M29-AiRQO84zb34CJFA7zjtMqlyHTqwBXuXwV6Q07PI&_nc_ohc=Qy4pdH3RwkcAX9H_U9m&_nc_ad= zm&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKegGcFPUOs8ndJUQRJ4ENVAuQWrpD-Ul9qjg1iO6E7fg&oe=61E1AAD9" group-title="MÚSICA", RADIO MIAMI TV
+#EXTINF:-1 tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-9/262119975_381948620283345_9016602729835504783_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeEscSVrj0RlJosARjKwLEE5M29-AiRQO84zb34CJFA7zjtMqlyHTqwBXuXwV6Q07PI&_nc_ohc=Qy4pdH3RwkcAX9H_U9m&_nc_ad= zm&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKegGcFPUOs8ndJUQRJ4ENVAuQWrpD-Ul9qjg1iO6E7fg&oe=61E1AAD9" group-title="MUSICA", RADIO MIAMI TV
 https://stmv.video.gmpro.top/miamitv/miamitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", OXIGENO
 https://stmv.video.gmpro.top/oxigeno/oxigeno/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png" group-title="MÚSICA", SEXY KPOP TV
+#EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png" group-title="MUSICA", SEXY KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/74efde69-4b42-43c4-a8f0-a4068fdd4862/vivaldi_logo.png" group-title="MÚSICA", Vivaldi
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/74efde69-4b42-43c4-a8f0-a4068fdd4862/vivaldi_logo.png" group-title="MUSICA", Vivaldi
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X- Plex-Token=VeRRLspvSX7Z8bzwMLKr&channelId=61bb9a63e0b39cfe304c9a8a
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVmbU_-0Y-2WFhjreupY5d-DVSJH6ZxDVIgj7p0dslXBZQoIpTe3DfUhHijpXJGdHlPVo&usqp=CAU" group-title="MUSICA", MUSICA RETRO TV
@@ -729,10 +729,10 @@ http://streaming.radiolinksmedia.com:8252/;transmitir
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metro951.png/225px-Metro951.png" group-title="CABA", Metro * 
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro  
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/64/a7/64a7bb75-e83e-4c9f-b758-43b90a04a858.jpg" grupo- title="CABA", Nacional Clásica *
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/64/a7/64a7bb75-e83e-4c9f-b758-43b90a04a858.jpg" group-title="CABA", Nacional Clásica *
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37  
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bfB665TOB9g/YCPr2H1AL-I/AAAAAAAA8I4/gJNFVc6-mJEyRF6jm1ZasCeA-BQZrwWSQCLcBGAsYHQ/s338/radio-folk-2021.png" título-grupo ="CABA", Nacional Folclórica 98.7 *
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bfB665TOB9g/YCPr2H1AL-I/AAAAAAAA8I4/gJNFVc6-mJEyRF6jm1ZasCeA-BQZrwWSQCLcBGAsYHQ/s338/radio-folk-2021.png" group-title="CABA", Nacional Folclórica 98.7 *
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38 
 
 #EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="CABA", Latina 101.1 *
@@ -747,7 +747,7 @@ http://node-18.zeno.fm/yzb4tysszk0uv?rj-ttl=5&rj-tok=AAABegIQu38AvyiMzDm__8L15w
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gg0sdPS/LOGO-PNG.png" group-title="RADIO", NEO NET MUSIC *
 https://proxy01.servidorenlinea.net/streaming1/8106/;
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/t7QZXZCd_qzimqeK1eBjJmtwuw9_FnWi8t_2GaS_wN0awcwIy11jq9Tylw4m2b1d8PY=s180-rw" group-title="PROVINCIA BUENOS AIRES", SUR 101.5 FM BARADERO *
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/t7QZXZCd_qzimqeK1eBjJmtwuw9_FnWi8t_2GaS_wN0awcwIy11jq9Tylw4m2b1d8PY=s180-rw" group-title="CABA", SUR 101.5 FM BARADERO *
 http://streaming03.arcast.com.ar:1935/radio/radiosur.stream/chunklist_w679830486.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c2WfCQY/Mas-Radio.jpg" group-title="RADIO", MAS RADIO *
@@ -844,19 +844,19 @@ https://radios.streamingdha.com.ar:7015/;
 https://streaming1.locucionar.com/proxy/radiokindostan?mp=/stream
 
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="GRAN BUENOS AIRES", RADIO MIX ARGENTINA*
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO MIX ARGENTINA*
 https://stream01.server-inside.com.ar:9601/mixargentina
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="GRAN BUENOS AIRES", RADIO PRELUDIO *
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO PRELUDIO *
 https://sc.dattalive.com/8588/stream
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="GRAN BUENOS AIRES", RADIO RMU *
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO RMU *
 http://streaming1.locucionar.com:14273/stream
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="CABA", RADIO SATSAID *
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO SATSAID *
 https://radios.streamingdha.com.ar:7016/stream?type=http&nocache=106
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIOCABA", RADIO SONIC *
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO SONIC *
 https://streams.cloudcast.media/radio/8000/listen.mp3
 
 #EXTINF:-1 tvg-logo="https://wclassicradio.com/wp-content/uploads/2021/07/logo.png" group-title="RADIO", WCLASSIC RADIO*
@@ -1239,10 +1239,10 @@ https://stream.idomo.com.ar/zafiro
 
 
 
-#EXTINF:0 tvg-id="estrella.gr" group-title="Indefindo",Estrella (720p)
+#EXTINF:0 tvg-id="estrella.gr" group-title="Indefinido",Estrella (720p)
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Indefindo",Familia estelar (576p)
+#EXTINF:0 tvg-id="ext" group-title="Indefinido",Familia estelar (576p)
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musica",Stereo 5 TV (720p)
@@ -1289,17 +1289,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HYyGs8Y/Kingdom.png" group-title="RELIGION",KingdomTV
 https://play.nexolife.com/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMzWVYs/Shalom.png" group-title="CUYO",Shalom 107.1
 https://panel.nexolife.ar/stream/Shalom
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
